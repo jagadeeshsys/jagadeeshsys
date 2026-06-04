@@ -37,7 +37,7 @@
 
 - Embedded C
 - ARM LPC212x,Cortex-M
-- cpp
+- c++
 - Linux - user space 
 - Socket Programming
 - Data Structures & Algorithms
