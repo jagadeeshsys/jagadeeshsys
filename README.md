@@ -15,7 +15,7 @@
 - 🔭 Working on Embedded Systems & Linux
 - 🌱 Learning STM32,LPC2129,Linux Internals & Socket Programming
 - 💻 Strong interest in Embedded C and ARM Microcontrollers
-- ⚡ Building projects daily and improving problem-solving skills
+- ⚡ Building projects daily and improving problem-solving skill
 
 ## 🛠️ Tech Stack
 
