@@ -79,21 +79,10 @@ Structured DSA programs with explanations.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeeshsys&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jagadeeshsys)
 
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadeeshsys&layout=compact&theme=tokyonight)
 
 ---
 
