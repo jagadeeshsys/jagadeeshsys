@@ -43,6 +43,7 @@
 - Data Structures & Algorithms
 - Git & GitHub
 - UART / SPI / I2C / CAN
+- RTOS
 - Vscode
 
 ---
