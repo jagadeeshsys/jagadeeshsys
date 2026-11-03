@@ -50,6 +50,13 @@
 
 ## 📌 Featured Projects
 
+### 🔷 RTOS-Based Task Scheduler (FreeRTOS)
+
+- Developed a priority-based multitasking system using FreeRTOS.
+- Implemented task communication using Queues, Binary Semaphores and Mutexes.
+- Demonstrated Priority Inversion and Priority Inheritance.
+- Integrated Task Monitoring and CPU Utilization Monitoring.
+- Built and tested using FreeRTOS POSIX simulation on macOS.
 ### 🔹 Wireless Temperature Monitoring System
 
 Arduino-based wireless monitoring using:
