@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔭 Working on Embedded Systems & Linux
-- 🌱 Learning STM32,LPC2129,Linux Internals & Socket Programming
+- 🌱 Learning STM32,LPC2129,Linux Internals,Socket Programming & RTOS
 - 💻 Strong interest in Embedded C and ARM Microcontrollers
 - ⚡ Building projects daily and improving problem-solving skill
 
