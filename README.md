@@ -50,21 +50,32 @@
 
 ## 📌 Featured Projects
 
-### 🔷 RTOS-Based Task Scheduler (FreeRTOS)
+### 🔹 RTOS-Based Task Scheduler (FreeRTOS)
 
 - Developed a priority-based multitasking system using FreeRTOS.
 - Implemented task communication using Queues, Binary Semaphores and Mutexes.
 - Demonstrated Priority Inversion and Priority Inheritance.
 - Integrated Task Monitoring and CPU Utilization Monitoring.
 - Built and tested using FreeRTOS POSIX simulation on macOS.
+
+### 🔹 LPC2129 UART Bootloader for Firmware Update
+
+- Developed using Embedded C for LPC2129 ARM7.
+- UART-based firmware transfer with custom packet protocol.
+- CRC32 integrity verification and sequence management.
+- Python-based host utility for firmware transfer.
+- Tested using Keil µVision simulation.
+  
 ### 🔹 Wireless Temperature Monitoring System
 
 Arduino-based wireless monitoring using:
+
 - DS18B20
 - RF Modules
 - I2C LCD
 
 ### 🔹 Inventory Management System
+
 - Built using C Programming
 - Linked List Based Product Management
 - CRUD Operations
